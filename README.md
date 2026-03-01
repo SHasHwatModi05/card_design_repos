@@ -5,8 +5,7 @@ A simple and elegant **multi-card layout design** created using pure **HTML and 
 This project showcases visually appealing cards with images, tags, descriptions, and interactive buttons.
 
 ## 🚀 Live Demo
-
-🔗 **Check it live here:**  
+Live deployment_link -https://nimble-tulumba-3688b4.netlify.app/
 
 
 ## ✨ Features
